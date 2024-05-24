@@ -9,7 +9,7 @@
 \contentsline {subsection}{\numberline {2.7}Concept gallery}{3}{}%
 \contentsline {subsection}{\numberline {2.8}lightning criticism}{3}{}%
 \contentsline {subsection}{\numberline {2.9}User test flow}{3}{}%
-\contentsline {subsubsection}{\numberline {2.9.1}individual worksheets}{3}{}%
+\contentsline {subsubsection}{\numberline {2.9.1}Individual worksheets}{3}{}%
 \contentsline {subsubsection}{\numberline {2.9.2}Voting}{3}{}%
 \contentsline {subsection}{\numberline {2.10}Storyboard}{3}{}%
 \contentsline {section}{\numberline {3}Reflection}{3}{}%
