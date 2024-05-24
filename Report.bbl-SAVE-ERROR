@@ -38,6 +38,24 @@
       \verb /home/joar/Zotero/storage/RM6KLG4S/Design_sprint.html
       \endverb
     \endentry
+    \entry{WhatHowMight}{misc}{}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{How Might We is a design thinking method where designers create questions that open up ideation sessions to generate a broad number of solutions.}
+      \field{howpublished}{https://www.interaction-design.org/literature/topics/how-might-we}
+      \field{journaltitle}{The Interaction Design Foundation}
+      \field{langid}{english}
+      \field{shorttitle}{What Is {{How Might We}} ({{HMW}})?}
+      \field{title}{What Is {{How Might We}} ({{HMW}})? --- Updated 2024}
+      \field{urlday}{24}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/joar/Zotero/storage/X88DF8UK/how-might-we.html
+      \endverb
+    \endentry
   \enddatalist
 \endrefsection
 \endinput
