@@ -1,13 +1,13 @@
 # Fdb version 4
-["biber Report"] 1716571774.13462 "Report.bcf" "Report.bbl" "Report" 1716571876.20272 0
+["biber Report"] 1716582271.00479 "Report.bcf" "Report.bbl" "Report" 1716582321.139 0
   "Library.bib" 1716571768.01005 3131 8b2f397987f26707d71209032bbf4212 ""
-  "Report.bcf" 1716571876.16406 108196 8cf1639590b169082c90fd8a121e9ec8 "pdflatex"
+  "Report.bcf" 1716582321.10738 108196 8cf1639590b169082c90fd8a121e9ec8 "pdflatex"
   (generated)
   "Report.bbl"
   "Report.blg"
   (rewritten before read)
-["pdflatex"] 1716571875.76024 "/home/joar/Documents/smidig/smidig-delivery-2/Report.tex" "Report.pdf" "Report" 1716571876.20295 0
-  "/home/joar/Documents/smidig/smidig-delivery-2/Report.tex" 1716571875.59737 6435 6585ebfb9780323ca8dd7d519d5bd52f ""
+["pdflatex"] 1716582320.58464 "/home/joar/Documents/smidig/smidig-delivery-2/Report.tex" "Report.pdf" "Report" 1716582321.13918 0
+  "/home/joar/Documents/smidig/smidig-delivery-2/Report.tex" 1716582319.73066 6702 89f42b3e56d7149a916a00235dd49df1 ""
   "/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1713199481 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1713199481 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf-dist/fonts/tfm/jknappen/ec/tcrm1200.tfm" 1713199481 1536 74b7293ec3713bb7fdca8dd1bd1f469c ""
@@ -80,12 +80,13 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1713199481 41588 b43d3e860a4f94167ee1e725ff526a72 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1716456965.33358 5312047 b07fcd2a9090df96fc745b92a3db793b ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1716456945 7112989 6a6b3aa48728b8200c149bb6c1f762a2 ""
-  "Report.aux" 1716571876.16406 3153 2b1fc376b92e189900514296c60d1659 "pdflatex"
-  "Report.bbl" 1716571774.51696 5168 904da403d6ec9175ef69049c4596978e "biber Report"
-  "Report.run.xml" 1716571876.16406 2316 8d7d9411c1fbade0916415c590e8f121 "pdflatex"
-  "Report.tex" 1716571875.59737 6435 6585ebfb9780323ca8dd7d519d5bd52f ""
-  "Report.toc" 1716571876.16406 1166 7f4cfa421c6192a8395b7ebec8e61d33 "pdflatex"
+  "Report.aux" 1716582321.10738 3310 766b2787132de7142101932b72831d3f "pdflatex"
+  "Report.bbl" 1716582271.43554 5168 904da403d6ec9175ef69049c4596978e "biber Report"
+  "Report.run.xml" 1716582321.11071 2316 8d7d9411c1fbade0916415c590e8f121 "pdflatex"
+  "Report.tex" 1716582319.73066 6702 89f42b3e56d7149a916a00235dd49df1 ""
+  "Report.toc" 1716582321.11071 1165 f3f273d1e35d1a16844db1279bd26532 "pdflatex"
   "images/icebreaker.png" 1716551819.68931 78301 aaad80b21da5ccef6d02054fdfb93dfb ""
+  "images/longterm.png" 1716582193.72932 73979 b44b65505a9e6c15aa133e639f072a32 ""
   "images/show-it.png" 1716568641.76048 153501 6310872b125b782f734f68bdce11ebc0 ""
   (generated)
   "Report.aux"
