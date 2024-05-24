@@ -6,10 +6,10 @@
 \contentsline {subsection}{\numberline {2.4}Sprint questions}{4}{}%
 \contentsline {subsection}{\numberline {2.5}Map and area of focus}{5}{}%
 \contentsline {subsection}{\numberline {2.6}concept sketch}{5}{}%
-\contentsline {subsection}{\numberline {2.7}Concept gallery}{5}{}%
-\contentsline {subsection}{\numberline {2.8}lightning criticism}{5}{}%
-\contentsline {subsection}{\numberline {2.9}User test flow}{5}{}%
-\contentsline {subsubsection}{\numberline {2.9.1}Individual worksheets}{5}{}%
-\contentsline {subsubsection}{\numberline {2.9.2}Voting}{5}{}%
-\contentsline {subsection}{\numberline {2.10}Storyboard}{5}{}%
-\contentsline {section}{\numberline {3}Reflection}{5}{}%
+\contentsline {subsection}{\numberline {2.7}Concept gallery}{7}{}%
+\contentsline {subsection}{\numberline {2.8}lightning criticism}{7}{}%
+\contentsline {subsection}{\numberline {2.9}User test flow}{7}{}%
+\contentsline {subsubsection}{\numberline {2.9.1}Individual worksheets}{7}{}%
+\contentsline {subsubsection}{\numberline {2.9.2}Voting}{7}{}%
+\contentsline {subsection}{\numberline {2.10}Storyboard}{7}{}%
+\contentsline {section}{\numberline {3}Reflection}{7}{}%

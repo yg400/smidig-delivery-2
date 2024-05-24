@@ -160,6 +160,10 @@ INPUT ./images/icebreaker.png
 INPUT ./images/icebreaker.png
 INPUT ./images/icebreaker.png
 INPUT /usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
+INPUT ./images/show-it.png
+INPUT ./images/show-it.png
+INPUT ./images/show-it.png
+INPUT ./images/show-it.png
 INPUT Report.aux
 INPUT Report.run.xml
 OUTPUT Report.run.xml
