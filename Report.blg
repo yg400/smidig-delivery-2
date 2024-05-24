@@ -1,15 +1,15 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is 'Report.blg'
-[29] biber:340> INFO - === Fri May 24, 2024, 19:04:02
-[35] Biber.pm:419> INFO - Reading 'Report.bcf'
+[29] biber:340> INFO - === Fri May 24, 2024, 19:23:08
+[36] Biber.pm:419> INFO - Reading 'Report.bcf'
 [60] Biber.pm:979> INFO - Found 4 citekeys in bib section 0
-[67] Biber.pm:4419> INFO - Processing section 0
+[66] Biber.pm:4419> INFO - Processing section 0
 [71] Biber.pm:4610> INFO - Looking for bibtex file 'Library.bib' for section 0
 [72] bibtex.pm:1713> INFO - LaTeX decoding ...
 [74] bibtex.pm:1519> INFO - Found BibTeX data source 'Library.bib'
-[87] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
 [87] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[87] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
 [87] Biber.pm:4239> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
 [87] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
 [88] bbl.pm:660> INFO - Writing 'Report.bbl' with encoding 'UTF-8'
-[89] bbl.pm:763> INFO - Output to Report.bbl
+[88] bbl.pm:763> INFO - Output to Report.bbl
