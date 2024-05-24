@@ -6,9 +6,6 @@
 \contentsline {subsection}{\numberline {2.4}Sprint questions}{4}{}%
 \contentsline {subsection}{\numberline {2.5}Map and area of focus}{5}{}%
 \contentsline {subsection}{\numberline {2.6}concept sketch}{5}{}%
-\contentsline {subsection}{\numberline {2.7}lightning criticism}{7}{}%
-\contentsline {subsection}{\numberline {2.8}User test flow}{7}{}%
-\contentsline {subsubsection}{\numberline {2.8.1}Individual worksheets}{7}{}%
-\contentsline {subsubsection}{\numberline {2.8.2}Voting}{7}{}%
-\contentsline {subsection}{\numberline {2.9}Storyboard}{7}{}%
+\contentsline {subsection}{\numberline {2.7}Storyboard}{7}{}%
 \contentsline {section}{\numberline {3}Reflection}{7}{}%
+\contentsline {subsection}{\numberline {3.1}Did you find answers to the sprint questions?}{7}{}%

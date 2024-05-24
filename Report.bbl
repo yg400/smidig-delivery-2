@@ -38,6 +38,42 @@
       \verb /home/joar/Zotero/storage/RM6KLG4S/Design_sprint.html
       \endverb
     \endentry
+    \entry{PenpotDesignTool}{misc}{}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Penpot is the open-source free design software that connects designers and developers with no handoff drama. Prototyping, UI design and code - all in one app.}
+      \field{howpublished}{https://penpot.app/}
+      \field{langid}{english}
+      \field{shorttitle}{Penpot}
+      \field{title}{Penpot: {{The Design Tool}} for {{Design}} \& {{Code Collaboration}}}
+      \field{urlday}{24}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/joar/Zotero/storage/N3BLSWN7/penpot.app.html
+      \endverb
+    \endentry
+    \entry{Storyboard2024}{article}{}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A storyboard is a graphic organizer that consists of illustrations or images displayed in sequence for the purpose of pre-visualizing a motion picture, animation, motion graphic or interactive media sequence. The storyboarding process, in the form it is known today, was developed at Walt Disney Productions during the early 1930s, after several years of similar processes being in use at Walt Disney and other animation studios.}
+      \field{annotation}{Page Version ID: 1219212150}
+      \field{journaltitle}{Wikipedia}
+      \field{langid}{english}
+      \field{month}{4}
+      \field{title}{Storyboard}
+      \field{urlday}{24}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/joar/Zotero/storage/UKZRF3CV/Storyboard.html
+      \endverb
+    \endentry
     \entry{WhatHowMight}{misc}{}
       \field{sortinit}{W}
       \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
