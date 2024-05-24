@@ -1,21 +1,27 @@
 # Fdb version 4
-["biber Report"] 0 "Report.bcf" "Report.bbl" "Report" 1716550271.86322 -1
-  "Library.bib" 1716549595.13735 861 ff8e086e5ae16cf19971e1164177033c ""
-  "Report.bcf" 1716550271.83212 107769 3d718b1b00bda1fcc1fb5890c14e04e5 "pdflatex"
+["biber Report"] 1716550772.12955 "Report.bcf" "Report.bbl" "Report" 1716550772.9626 0
+  "Library.bib" 1716550766.39702 1413 45b69284c93b46d5b86254dc561f49d7 ""
+  "Report.bcf" 1716550772.93394 107836 3fe6dc095bd3c36ac69cf1ffb5722c24 "pdflatex"
   (generated)
   "Report.bbl"
   "Report.blg"
   (rewritten before read)
-["pdflatex"] 1716550271.46662 "/home/joar/Documents/smidig/smidig-delivery-2/Report.tex" "Report.pdf" "Report" 1716550271.8634 0
-  "/home/joar/Documents/smidig/smidig-delivery-2/Report.tex" 1716550271.26544 1260 d636925704c4cfb392194f6efceffda0 ""
+["pdflatex"] 1716550772.50811 "/home/joar/Documents/smidig/smidig-delivery-2/Report.tex" "Report.pdf" "Report" 1716550772.96279 0
+  "/home/joar/Documents/smidig/smidig-delivery-2/Report.tex" 1716550768.02708 1449 3cc7b9c746e1c9babcc6abdcef59cd79 ""
   "/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1713199481 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1713199481 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf-dist/fonts/tfm/jknappen/ec/tcrm1200.tfm" 1713199481 1536 74b7293ec3713bb7fdca8dd1bd1f469c ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1713199481 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1713199481 1524 4414a8315f39513458b80dfc63bff03a ""
+  "/usr/share/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm" 1713199481 1512 f21f83efb36853c0b70002322c1ab3ad ""
+  "/usr/share/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm" 1713199481 1520 eccf95517727cb11801f4f1aee3a21b4 ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1713199481 1288 655e228510b4c2a1abe905c368440826 ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmr17.tfm" 1713199481 1292 296a67155bdbfc32aa9c636f21e91433 ""
+  "/usr/share/texmf-dist/fonts/tfm/public/cm/cmr6.tfm" 1713199481 1300 b62933e007d01cfd073f79b963c01526 ""
+  "/usr/share/texmf-dist/fonts/tfm/public/cm/cmr8.tfm" 1713199481 1292 21c1c5bfeaebccffdb478fd231a0997d ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm" 1713199481 1124 6c73e740cf17375f03eec0ee63599741 ""
+  "/usr/share/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm" 1713199481 1116 933a60c408fc0a863a92debe84b2d294 ""
+  "/usr/share/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm" 1713199481 1120 8b7d695260f3cff42e636090a8002094 ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmti12.tfm" 1713199481 1484 ed72f8f5cf654cda15ecc8e32bfcbee5 ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmtt12.tfm" 1713199481 772 9a936b7f5e2ff0557fce0f62822f0bbf ""
   "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1713199481 32080 340ef9bf63678554ee606688e7b5339d ""
@@ -74,11 +80,11 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1713199481 41588 b43d3e860a4f94167ee1e725ff526a72 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1716456965.33358 5312047 b07fcd2a9090df96fc745b92a3db793b ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1716456945 7112989 6a6b3aa48728b8200c149bb6c1f762a2 ""
-  "Report.aux" 1716550271.83212 389 c525a83f84a603ac4db005df48c7f9fc "pdflatex"
-  "Report.bbl" 1716549913.04578 1681 80f73420dadd74fc92bed2663e9b8cd1 "biber Report"
-  "Report.run.xml" 1716550271.83212 2316 8d7d9411c1fbade0916415c590e8f121 "pdflatex"
-  "Report.tex" 1716550271.26544 1260 d636925704c4cfb392194f6efceffda0 ""
-  "Report.toc" 1716550271.83212 59 2c8eea4403ecec59d00b365388b7c22a "pdflatex"
+  "Report.aux" 1716550772.93394 893 91718938bdd21940304cf3dc6aa64bda "pdflatex"
+  "Report.bbl" 1716550772.49392 2556 15f49e2de3d069486aae211b04ed31b8 "biber Report"
+  "Report.run.xml" 1716550772.93394 2316 8d7d9411c1fbade0916415c590e8f121 "pdflatex"
+  "Report.tex" 1716550768.02708 1449 3cc7b9c746e1c9babcc6abdcef59cd79 ""
+  "Report.toc" 1716550772.93394 304 804bb75e398af2ad7cae82e1393a8727 "pdflatex"
   (generated)
   "Report.aux"
   "Report.bcf"
