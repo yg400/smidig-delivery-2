@@ -4,12 +4,12 @@
 \contentsline {subsection}{\numberline {2.2}Expert interview and HMW\blx@tocontentsinit {0}\cite {WhatHowMight} questions}{4}{}%
 \contentsline {subsection}{\numberline {2.3}Long term goals}{4}{}%
 \contentsline {subsection}{\numberline {2.4}Sprint questions}{4}{}%
-\contentsline {subsection}{\numberline {2.5}Map and area of focus}{4}{}%
-\contentsline {subsection}{\numberline {2.6}concept sketch}{4}{}%
-\contentsline {subsection}{\numberline {2.7}Concept gallery}{4}{}%
-\contentsline {subsection}{\numberline {2.8}lightning criticism}{4}{}%
-\contentsline {subsection}{\numberline {2.9}User test flow}{4}{}%
-\contentsline {subsubsection}{\numberline {2.9.1}Individual worksheets}{4}{}%
-\contentsline {subsubsection}{\numberline {2.9.2}Voting}{4}{}%
+\contentsline {subsection}{\numberline {2.5}Map and area of focus}{5}{}%
+\contentsline {subsection}{\numberline {2.6}concept sketch}{5}{}%
+\contentsline {subsection}{\numberline {2.7}Concept gallery}{5}{}%
+\contentsline {subsection}{\numberline {2.8}lightning criticism}{5}{}%
+\contentsline {subsection}{\numberline {2.9}User test flow}{5}{}%
+\contentsline {subsubsection}{\numberline {2.9.1}Individual worksheets}{5}{}%
+\contentsline {subsubsection}{\numberline {2.9.2}Voting}{5}{}%
 \contentsline {subsection}{\numberline {2.10}Storyboard}{5}{}%
 \contentsline {section}{\numberline {3}Reflection}{5}{}%
