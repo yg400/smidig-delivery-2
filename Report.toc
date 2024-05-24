@@ -1,4 +1,4 @@
-\contentsline {section}{\numberline {1}Introduction}{2}{}%
+\contentsline {section}{\numberline {1}Introduction}{1}{}%
 \contentsline {section}{\numberline {2}Sprint}{2}{}%
 \contentsline {subsection}{\numberline {2.1}Ice breaker}{2}{}%
 \contentsline {subsection}{\numberline {2.2}Expert interview and HMW\blx@tocontentsinit {0}\cite {WhatHowMight} questions}{4}{}%
@@ -6,10 +6,9 @@
 \contentsline {subsection}{\numberline {2.4}Sprint questions}{4}{}%
 \contentsline {subsection}{\numberline {2.5}Map and area of focus}{5}{}%
 \contentsline {subsection}{\numberline {2.6}concept sketch}{5}{}%
-\contentsline {subsection}{\numberline {2.7}Concept gallery}{7}{}%
-\contentsline {subsection}{\numberline {2.8}lightning criticism}{7}{}%
-\contentsline {subsection}{\numberline {2.9}User test flow}{7}{}%
-\contentsline {subsubsection}{\numberline {2.9.1}Individual worksheets}{7}{}%
-\contentsline {subsubsection}{\numberline {2.9.2}Voting}{7}{}%
-\contentsline {subsection}{\numberline {2.10}Storyboard}{7}{}%
+\contentsline {subsection}{\numberline {2.7}lightning criticism}{7}{}%
+\contentsline {subsection}{\numberline {2.8}User test flow}{7}{}%
+\contentsline {subsubsection}{\numberline {2.8.1}Individual worksheets}{7}{}%
+\contentsline {subsubsection}{\numberline {2.8.2}Voting}{7}{}%
+\contentsline {subsection}{\numberline {2.9}Storyboard}{7}{}%
 \contentsline {section}{\numberline {3}Reflection}{7}{}%
