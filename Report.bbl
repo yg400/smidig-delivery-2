@@ -38,6 +38,24 @@
       \verb /home/joar/Zotero/storage/RM6KLG4S/Design_sprint.html
       \endverb
     \endentry
+    \entry{FigmaCollaborativeInterface}{misc}{}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Figma is the leading collaborative design tool for building meaningful products. Seamlessly design, prototype, develop, and collect feedback in a single platform.}
+      \field{howpublished}{https://www.figma.com/}
+      \field{journaltitle}{Figma}
+      \field{langid}{american}
+      \field{shorttitle}{Figma}
+      \field{title}{Figma: {{The Collaborative Interface Design Tool}}}
+      \field{urlday}{24}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /home/joar/Zotero/storage/TYGSTSL3/www.figma.com.html
+      \endverb
+    \endentry
     \entry{PenpotDesignTool}{misc}{}
       \field{sortinit}{P}
       \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
