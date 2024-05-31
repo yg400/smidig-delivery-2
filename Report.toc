@@ -2,8 +2,8 @@
 \contentsline {section}{\numberline {2}Sprint}{2}{}%
 \contentsline {subsection}{\numberline {2.1}Ice breaker}{2}{}%
 \contentsline {subsection}{\numberline {2.2}Expert interview and HMW\blx@tocontentsinit {0}\cite {WhatHowMight} questions}{4}{}%
-\contentsline {subsection}{\numberline {2.3}Long term goals}{4}{}%
-\contentsline {subsection}{\numberline {2.4}Sprint questions}{4}{}%
+\contentsline {subsection}{\numberline {2.3}Longterm goals}{4}{}%
+\contentsline {subsection}{\numberline {2.4}Sprint questions}{5}{}%
 \contentsline {subsection}{\numberline {2.5}Map and area of focus}{5}{}%
 \contentsline {subsection}{\numberline {2.6}concept sketch}{5}{}%
 \contentsline {subsection}{\numberline {2.7}Storyboard}{7}{}%
